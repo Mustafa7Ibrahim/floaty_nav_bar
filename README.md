@@ -2,7 +2,7 @@
 
 FloatyNavBar is a customizable floating navigation bar for Flutter applications. It provides a sleek and interactive way to navigate between tabs while offering an optional action button for additional functionality.
 
-![FloatyNavBar](https://user-images.githubusercontent.com/37230963/139573073-3b3b3b7b-1b7b-4b7b-8b7b-3b7b3b7b3b7b.gif)
+![FloatyNavBar](https://github.com/Mustafa7Ibrahim/floaty_nav_bar/blob/main/assets/example.gif?raw=true)
 
 ## Features
 
@@ -134,4 +134,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/Mustafa7Ibrahim/floaty_nav_bar/blob/main/LICENSE)) file for details.
